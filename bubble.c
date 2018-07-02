@@ -1,5 +1,3 @@
-/*bub.c*/
-
 int* bubblesort(int *a, int length)
 {
 	int i, j, t;
